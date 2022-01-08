@@ -6,6 +6,9 @@ Create a simple calendar application that allows a user to save events for each 
 
 You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
 
+## Link to Github Pages
+
+
 
 ## User Story
 
@@ -32,3 +35,9 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+
+## Screenshots
+
+![Screenshot of webpage](./images/Users/lilythomas/Desktop/github-projects/work-day-scheduler/images/Screen Shot 2022-01-07 at 11.32.53 PM.png)
+
+![Screenshot of webpage](./images//Users/lilythomas/Desktop/github-projects/work-day-scheduler/images/Screen Shot 2022-01-07 at 11.33.07 PM.png)
